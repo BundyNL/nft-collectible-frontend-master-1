@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import { useEffect, useState } from 'react';
 import './App.css';
 import contract from './contracts/BundyAssessment.json';
